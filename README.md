@@ -10,3 +10,4 @@ Just foolin around with tags.
 [master 7c6e9c6] * v1.0.10
  1 file changed, 3 insertions(+)
 * v1.0.11
+* v1.0.12
